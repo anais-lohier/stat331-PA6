@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: Lenka Masic, Anais Lohier, Alexi Casco, Aidan Sacco
 format: html
 editor: visual
 embed-resources: true
