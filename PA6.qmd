@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Alexi, Aidan, Anais, Lenka"
 format: html
 editor: visual
 embed-resources: true
